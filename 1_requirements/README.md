@@ -27,11 +27,11 @@
 # REQUIREMENTS
 
 # HIGH LEVEL RQUIREMENTS
-| Left-Aligned  | Center Aligned  | Right Aligned |
+| ID   | DDESCRIPTION     | STATUS |
 | :------------ |:---------------:| -----:|
-| col 3 is      | some wordy text | $1600 |
-| col 2 is      | centered        |   $12 |
-| zebra stripes | are neat        |    $1 |
-
+| HR 1 |  ACC MODE IN CAR | Implemented |
+| HR 2 | IGNITION MODE    |  Implemented |
+| HR 3 | WIPER ON         |   Implemented |
+| HR 3 | WIPER OF         |   Implemented |
 
 
